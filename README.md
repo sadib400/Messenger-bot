@@ -1,37 +1,4 @@
----------
 
-###  —͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️
-❖ **`A Massanger  Multi Device Bot To Take Your Massanger To Another Level !`** ❖
-
-----------
-## CLICK <a href="https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues">HERE IF YOU ARE NEW TO BOTS</a>
-
-
-<img src='https://i.imgur.com/ePDUcck.jpeg'/>
-
--------
-
- <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸+𝗰𝗵𝗮𝘁+𝗯𝗼𝘁+V2`" alt="">
-
-<br>
-
---------
-
-<p align="center">
-<a href="https://github.com/cyber-ullash/"><img title="Followers" src="https://img.shields.io/github/followers/cyber-ullash?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/cyber-ullash/CYBER-BOT-COMMUNITY/?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/network/members"><img title="Forks" src="https://img.shields.io/github/forks/cyber-ullash/CYBER-BOT-COMMUNITY?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/"><img title="Size" src="https://img.shields.io/github/repo-size/cyber-ullash/CYBER-BOT-COMMUNITY?style=flat-square&color=blue"></a>
-<a href="https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
-
------------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️</div>
-
-------------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -76,41 +43,9 @@ jobs:
       run: npm start
 ```
 
-[![FORK CYBER Ullash ッ ](https://img.shields.io/badge/FORK%20-CYBER%20Ullashッ%20V01-white)](https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/forks)
 
- 
-🕋✨ `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🌸 **[Original-fork](https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY)**
 
-------------------
 
-### <br> ❖ FOR SUPPORT ❖
-
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME CYBER-BOT-SUPPORT-ADMIN࿐➺`**
-
--------
-
-<p align="center">
-  <a href="https://wa.me/+8801882333052?text=*ᴀssᴀʟᴀᴍᴜ ᴀʟᴀɪᴋᴜᴍ+ullash+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ʙʀᴇᴀᴛʜᴇʀ!!*" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
------------    
-
-`🚀 IF YOU WANT MORE ABOUT 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  :NEW UPDATED NEW CMDS SO JOIN OUR MASSANGER GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP 🚀`
-
----------
-
-<a href="https://m.me/j/AbbgQN_Pv6yXppYl/"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴍᴀssᴀɴ%20ɢʀᴏᴜᴘ-red" alt="🔰 ᴍᴀssᴀɴ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
-
------------
-
-`🚀 IF YOU WANT MORE ABOUT 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL 🚀`
-
-----------
-## CREATE TALDROVE ACCOUNT
-<a href="https://host.talkdrove.com/auth/signup?ref=9535F15A"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20HOST.TALKDROVE%20FREE%20ACCOUNT%20HERE-blue" alt="hosttaldrove" width="300"></a>
------------
-
-src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 --------------
  
@@ -184,36 +119,4 @@ src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏ�
 </p>
 
 -------------
-
------------
-
-`I extend my heartfelt thanks and gratitude to everyone who helped me in creating this bot.
-
-### 🔳 Special Thanks:
-- ✨ CYBER RAJIB  
-- 💡 SHAON AHMED  
-- ⚡ NUZRUL  
-- 🎩 Grandpa EJ  
-- 🛡️ SAHADAT  
-- 🧠 SUJON  
-- 🔧 MAHBUB SHAON  
-- 🌟 NOMAN  
-
-Each of your contributions has been a great inspiration to me.
-
----
-
-### [🌺 ｢𝐈 𝐂 𝐂｣ 🌺](https://m.me/j/AbZEOcdMGQYprT74/)
-
-### [🌼💋 উ্ঁল্লা্ঁস্ঁ এ্ঁর্ঁ ফে্ঁমা্ঁস্ঁ সি্ঁটি্ঁ 😘🥀](https://m.me/j/AbYQ-A0Ntlobleu9/)  
-Heartfelt love and gratitude to all the members of this group as well.  
----
-
-May this journey continue with all of you by my side, **In Shaa Allah**.`
-
-----------
-
-Thanks For Using 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  
-
-> Release Date : 15/04/2025 at 08.00 
 Dᴏɴ’ᴛ Fᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ sᴛᴀʀ ⭐️ ᴀꜰᴛᴇʀ ꜰᴏʀᴋ
